@@ -36,7 +36,7 @@ class Node:
 
         self.__data = value
 
-        @property
+    @property
     def next_node(self):
 
         """Get/set the next_node of the Node."""
